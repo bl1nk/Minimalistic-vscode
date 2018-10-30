@@ -1,11 +1,11 @@
 {
-    "name": "minimalistic",
-    "displayName": "Minimalistic",
+    "name": "bl1nk-min",
+    "displayName": "bl1nk-min",
     "description": "Minimalistic color theme",
     "version": "0.1.1",
-    "publisher": "8bitslime",
+    "publisher": "bl1nk",
     "engines": {
-        "vscode": "^1.22.0"
+        "vscode": "^1.25.0"
     },
     "license": "MIT",
     "homepage": "https://github.com/8bitslime/Minimalistic-vscode",
@@ -22,7 +22,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Minimalistic",
+                "label": "bl1nk-min",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minimalistic-color-theme.json"
             }
